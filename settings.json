@@ -2,8 +2,6 @@
 //Download extensions
 // Ayu
 // Material Icon Theme
-// Prettier - Code formatter
-// ESLint
 {
     "breadcrumbs.enabled": false,
     "editor.renderWhitespace": "none",
@@ -92,5 +90,5 @@
     "window.menuBarVisibility": "compact",
     "dart.flutterHotReloadOnSave": "all",
     "dart.hotReloadOnSave": "all",
-    //  "editor.guides.bracketPairs":"active",
+    "editor.guides.bracketPairs":"active",
   }
